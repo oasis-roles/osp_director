@@ -1,3 +1,5 @@
+# This Role Has Been Deprecated: Please use the version in the [oasis_roles.osp](https://github.com/oasis-roles/ansible_collection_osp) Ansible Collection
+
 [![Build Status](https://travis-ci.com/oasis-roles/osp_director.svg?branch=master)](https://travis-ci.com/oasis-roles/osp_director)
 
 osp_director
